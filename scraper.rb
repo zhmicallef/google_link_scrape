@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # Blank Ruby
 
 require 'nokogiri'   
